@@ -15,6 +15,6 @@ on:
 
 jobs:
   call-workflow-passing-data:
-    uses: teamknowlogy-org/reusable-workflows/.github/workflows/call-reusable-workflow.yml@main
+    uses: teamknowlogy-org/sq-reusable-workflows/.github/workflows/call-reusable-workflow.yml@main
     secrets: inherit
       
